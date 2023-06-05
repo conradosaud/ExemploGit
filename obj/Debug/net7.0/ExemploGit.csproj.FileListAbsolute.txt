@@ -1,0 +1,15 @@
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\bin\Debug\net7.0\ExemploGit.exe
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\bin\Debug\net7.0\ExemploGit.deps.json
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\bin\Debug\net7.0\ExemploGit.runtimeconfig.json
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\bin\Debug\net7.0\ExemploGit.dll
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\bin\Debug\net7.0\ExemploGit.pdb
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.csproj.AssemblyReference.cache
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.AssemblyInfoInputs.cache
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.AssemblyInfo.cs
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.csproj.CoreCompileInputs.cache
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.dll
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\refint\ExemploGit.dll
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.pdb
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ExemploGit.genruntimeconfig.cache
+C:\Users\Conrado\source\repos\ExemploGit\ExemploGit\obj\Debug\net7.0\ref\ExemploGit.dll
